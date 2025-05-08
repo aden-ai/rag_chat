@@ -1,0 +1,5 @@
+streamlit
+openai
+aiohttp
+psycopg2-binary
+aiomysql
